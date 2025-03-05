@@ -1,3 +1,6 @@
+# About this fork
+This fork of 4.3 is for me to modify the by adding new code, either self-written or from PRs in upstream. No changes are made yet.
+
 # Godot Engine
 
 <p align="center">
